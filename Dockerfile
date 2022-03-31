@@ -1,6 +1,6 @@
 FROM ubuntu:bionic
 
-LABEL maintainer="Jongkuk Lim <limjk@jmarple.ai>"
+LABEL maintainer="Haneol Kim  <bestwook7@gmail.com>"
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Seoul
 
